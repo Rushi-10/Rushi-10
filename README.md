@@ -1,7 +1,7 @@
 ![MasterHead](https://wallpaperaccess.com/full/2068772.jpg)
 
 <h1 align="center">Hi 👋, I'm Rushikesh Madhure</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate software developer</h3>
 <image align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/18/85/c1/1885c13043ba7f69f2b1f7a17e48bd4e.jpg"/>
 - 🔭 I’m currently working as **Software Engineer at Bytefusion Techsoft**
 
